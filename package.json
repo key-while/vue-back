@@ -1,0 +1,11 @@
+{
+  "name": "vue--back",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./serve.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
